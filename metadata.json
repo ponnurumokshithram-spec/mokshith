@@ -1,0 +1,6 @@
+{
+  "name": "AlphaVault - Sony Camera Hub & Community",
+  "description": "Comprehensive Sony mirrorless camera ecosystem guide featuring detailed reviews, interactive lens compatibility checker, beginner tutorials, live retailer price tracking, and community gear exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
